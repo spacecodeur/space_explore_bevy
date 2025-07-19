@@ -1,0 +1,11 @@
+[workspace]
+resolver = "2"
+
+members = [
+    "shared/*",
+    "projects/*",
+]
+
+[workspace.dependencies]
+bevy = "0.16.1"
+bevy_common = { path = "shared/bevy_common" }
