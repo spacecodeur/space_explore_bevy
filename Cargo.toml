@@ -9,3 +9,4 @@ members = [
 [workspace.dependencies]
 bevy = "0.16.1"
 bevy_common = { path = "shared/bevy_common" }
+bevy-inspector-egui = "0.32.0"
