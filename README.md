@@ -5,7 +5,7 @@ A collection of independent mini-projects for learning game development with Bev
 ## Project Structure
 
 ```
-bevy_training/
+space_explore_bevy/
 ├── projects/           # Individual Bevy learning projects
 ├── shared/            # Common utilities and components
 │   └── bevy_common/   # Shared Bevy prelude and utilities
